@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHelpersExamples", "FileHelpersExamples\FileHelpersExamples.csproj", "{5694D247-1D5D-4A5C-9FBB-3AD6051F8470}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHelpersLibrary", "FileHelpersExamples\FileHelpersLibrary.csproj", "{5694D247-1D5D-4A5C-9FBB-3AD6051F8470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHelperCoreConsoleApp", "FileHelperCoreConsoleApp\FileHelperCoreConsoleApp.csproj", "{F1F91E54-B91A-4C9A-915D-1C103A5255BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5694D247-1D5D-4A5C-9FBB-3AD6051F8470}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5694D247-1D5D-4A5C-9FBB-3AD6051F8470}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5694D247-1D5D-4A5C-9FBB-3AD6051F8470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F91E54-B91A-4C9A-915D-1C103A5255BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F91E54-B91A-4C9A-915D-1C103A5255BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F91E54-B91A-4C9A-915D-1C103A5255BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F91E54-B91A-4C9A-915D-1C103A5255BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
